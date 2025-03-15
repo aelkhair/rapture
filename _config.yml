@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "academicpages"
+site_theme               : "dark"
 title                    : "Amine EL KHAIR / Rapture"
 title_separator          : "-"
 name                     : &name "Amine EL KHAIR"
