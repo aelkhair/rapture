@@ -13,9 +13,9 @@ title                    : "Amine EL KHAIR / Rapture"
 title_separator          : "-"
 name                     : &name "Amine EL KHAIR"
 description              : &description "A blog on Financial Econometrics and Machine Learning with applications to Systematic Investing, Portfolio Optimization, and Statistical Arbitrage. Rapture celebrates the joy of exploring financial quant research through advanced econometric models and Machine Learning."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://aelkhair.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "rapture" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/aelkhair/rapture/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
